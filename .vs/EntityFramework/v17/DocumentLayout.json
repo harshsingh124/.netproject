@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\newfolder\\invoiceviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:newfolder\\invoiceviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\newfolder\\invoicedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:newfolder\\invoicedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|c:\\users\\harshsingh\\desktop\\entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE52FAD2-3E84-47B8-A9A5-3A20AD7A1A5E}|EntityFramework.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAIwMEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:35:19.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Vendor.cs",
+              "RelativeDocumentMoniker": "Vendor.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Vendor.cs",
+              "RelativeToolTip": "Vendor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:47:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:01:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Controllers\\VendorController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:49:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceDtocs.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\NewFolder\\InvoiceDtocs.cs",
+              "RelativeDocumentMoniker": "NewFolder\\InvoiceDtocs.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\NewFolder\\InvoiceDtocs.cs",
+              "RelativeToolTip": "NewFolder\\InvoiceDtocs.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:29:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoice.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Invoice.cs",
+              "RelativeToolTip": "Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:33:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\NewFolder\\InvoiceViewDto.cs",
+              "RelativeDocumentMoniker": "NewFolder\\InvoiceViewDto.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\NewFolder\\InvoiceViewDto.cs",
+              "RelativeToolTip": "NewFolder\\InvoiceViewDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:50:06.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "AddDbContext.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\AddDbContext.cs",
+              "RelativeToolTip": "AddDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:00:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T07:56:57.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Currency.cs",
+              "RelativeToolTip": "Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:57:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityFramework.csproj",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\EntityFramework.csproj",
+              "RelativeDocumentMoniker": "EntityFramework.csproj",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\EntityFramework.csproj",
+              "RelativeToolTip": "EntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T11:33:03.131Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "da246124-ef1e-429e-ad04-60f7477f2244",
+        "Display": 1,
+        "X": 255,
+        "Y": 127,
+        "Width": 1193,
+        "Height": 642,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\HarshSingh\\Desktop\\EntityFramework\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv6QAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:59:05.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

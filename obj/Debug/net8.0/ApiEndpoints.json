@@ -1,0 +1,399 @@
+[
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "AddNewCurrency",
+    "RelativePath": "api/Currency/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "c",
+        "Type": "EntityFramework.Currency",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "AllCurrency",
+    "RelativePath": "api/Currency/AllCurrency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "curencyCount",
+    "RelativePath": "api/Currency/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "RemoveCurrency",
+    "RelativePath": "api/Currency/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "EditCurrency",
+    "RelativePath": "api/Currency/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currency",
+        "Type": "EntityFramework.Currency",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "GetCurrencyByCode",
+    "RelativePath": "api/Currency/getbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.CurrencyController",
+    "Method": "Pagination",
+    "RelativePath": "api/Currency/pagination/{pageNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "AddNewInvoices",
+    "RelativePath": "api/Invoice/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtocs",
+        "Type": "EntityFramework.NewFolder.InvoiceDtocs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "InvoiceCount",
+    "RelativePath": "api/Invoice/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "RemoveInvoice",
+    "RelativePath": "api/Invoice/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "EditInvoice",
+    "RelativePath": "api/Invoice/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedInvoice",
+        "Type": "EntityFramework.NewFolder.InvoiceDtocs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "filterinvoice",
+    "RelativePath": "api/Invoice/filterinvoice/{cId}/{vId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "vId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EntityFramework.Invoice",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "GetInvoiceByCode",
+    "RelativePath": "api/Invoice/getbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "GetInvoicesByVendor",
+    "RelativePath": "api/Invoice/getbypropert/{property}/{value}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.InvoiceController",
+    "Method": "AllInvoice",
+    "RelativePath": "api/Invoice/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "AddNewVendor",
+    "RelativePath": "api/Vendor/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "v",
+        "Type": "EntityFramework.Vendor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "VendorCount",
+    "RelativePath": "api/Vendor/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "RemoveVendor",
+    "RelativePath": "api/Vendor/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "EditVendor",
+    "RelativePath": "api/Vendor/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedVendor",
+        "Type": "EntityFramework.Vendor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "GetVendorByCode",
+    "RelativePath": "api/Vendor/getbyid/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "AllVendor",
+    "RelativePath": "api/Vendor/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.VendorController",
+    "Method": "Pagination",
+    "RelativePath": "api/Vendor/pagination/{pageNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFramework.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EntityFramework.WeatherForecast, EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
